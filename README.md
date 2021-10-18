@@ -19,8 +19,6 @@ Following the preprocessing and cleaning phase we have a total of 532 tradable c
 
 ![tradable_crypto.png](https://github.com/Shikharbhd/Cryptocurrencies/blob/main/Resources/Images/tradable_crypto.png)
 
-![tradable_crypto_table.png](https://github.com/Shikharbhd/Cryptocurrencies/blob/main/Resources/Images/tradable_crypto_table.png)
-
 ### Clustering Crytocurrencies Using K-Means - Elbow Curve
  ![elbow_curve.png](https://github.com/Shikharbhd/Cryptocurrencies/blob/main/Resources/Images/elbow_curve.png)
 
